@@ -1,9 +1,9 @@
 # project-two
-Sales and Revenue Performance Dashboard: Tracks and visualizes key sales metrics, including revenue per employee, top products, and customer trends. Built with Excel (Power Pivot).
+
 # Sales Dashboard 📈
 
+Sales and Revenue Performance Dashboard: Tracks and visualizes key sales metrics, including revenue per employee, top products, and customer trends. Built with Excel (Power Pivot).
 
-This project demonstrates a complete data analysis workflow, transforming raw sales data into an interactive business intelligence dashboard. The goal was to provide clear, actionable insights to help the business improve its performance and revenue.
 
 ---
 
