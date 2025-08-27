@@ -50,7 +50,9 @@ Growth Drivers: Identification of top-selling products and top-performing custom
 Strategy: Data to inform future marketing and resource allocation decisions, as well as employee performance evaluation.
 
 ---
-⚙️ Tools & Technologies
+
+# ⚙️ Tools & Technologies
+
 Data Cleaning & Aggregation: Microsoft Excel and powerpivot
 
 Visualization: Microsoft Excel
