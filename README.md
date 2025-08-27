@@ -1,6 +1,5 @@
 # project-two
 Sales and Revenue Performance Dashboard: Tracks and visualizes key sales metrics, including revenue per employee, top products, and customer trends. Built with Excel (Power Pivot).
-# Project-One
 # Sales Dashboard 📈
 
 
@@ -33,12 +32,11 @@ Began with a raw sales dataset that contained various sales and customer details
 
 | Feature | Insight | Visualization |
 | :--- | :--- | :--- |
-| Average Order Value | Averages the total value of each order. | Numeric Highlight |
-| Total Revenue & Active Customers | High-level overview of overall business performance and customer base. | Numeric Highlights |
-| Top 10 Customers | Identifies the most valuable customers by total revenue. | Bar Chart |
-| Top 10 Products by Revenue | Pinpoints the best-selling products. | Bar Chart |
-| Total Revenue Per Employee | Tracks individual sales performance. | Bar Chart |
-| YTD Revenue | Shows yearly revenue progress across quarters to reveal trends. | Bar Chart |
+| Total Sales & Net Income | 6-year summary of total revenue and profit. | Numeric Highlights |
+| Sales by Year | Shows sales trends and performance over time (2014-2019). | Line Chart |
+| Sales by Country | Highlights the top-performing countries by sales volume. | Bar Chart |
+| Sales by Category | Displays sales distribution across different product categories. | Pie Chart |
+| Cash Cow Category | Identifies the most profitable product categories based on net income and rating. | Bar Chart |
 
 ---
 
